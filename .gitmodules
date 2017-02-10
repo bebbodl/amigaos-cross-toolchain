@@ -1,34 +1,34 @@
 [submodule "submodules/binutils-2.9.1"]
 	path = submodules/binutils-2.9.1
-	url = git://github.com/cahirwpz/amigaos-binutils-2.9.1
+	url = https://github.com/cahirwpz/amigaos-binutils-2.9.1.git
 [submodule "submodules/clib2"]
 	path = submodules/clib2
-	url = git@github.com:adtools/clib2
+	url = https://github.com/adtools/clib2.git
 [submodule "submodules/fd2sfd"]
 	path = submodules/fd2sfd
-	url = ssh://git@github.com/cahirwpz/fd2sfd
+	url = https://github.com/cahirwpz/fd2sfd.git
 [submodule "submodules/sfdc"]
 	path = submodules/sfdc
-	url = ssh://git@github.com/adtools/sfdc
+	url = https://github.com/adtools/sfdc.git
 [submodule "submodules/libdebug"]
 	path = submodules/libdebug
-	url = ssh://git@github.com/cahirwpz/libdebug
+	url = https://github.com/cahirwpz/libdebug.git
 [submodule "submodules/python-lhafile"]
 	path = submodules/python-lhafile
-	url = ssh://git@github.com/FrodeSolheim/python-lhafile
+	url = https://github.com/FrodeSolheim/python-lhafile.git
 [submodule "submodules/fd2pragma"]
 	path = submodules/fd2pragma
-	url = ssh://git@github.com/adtools/fd2pragma.git
+	url = https://github.com/adtools/fd2pragma.git.git
 [submodule "submodules/gcc-2.95.3"]
 	path = submodules/gcc-2.95.3
-	url = ssh://git@github.com/bebbo/amigaos-gcc-2.95.3
+	url = https://github.com/bebbo/amigaos-gcc-2.95.3.git
 [submodule "submodules/binutils-2.14"]
 	path = submodules/binutils-2.14
-	url = ssh://git@github.com/bebbo/amigaos-binutils-2.14
+	url = https://github.com/bebbo/amigaos-binutils-2.14.git
 [submodule "submodules/gcc-6"]
 	path = submodules/gcc-6
-	url = ssh://git@github.com/bebbo/gcc
+	url = https://github.com/bebbo/gcc.git
 	branch = gcc-6-branch
 [submodule "submodules/libnix"]
 	path = submodules/libnix
-	url = ssh://git@github.com/bebbo/libnix
+	url = https://github.com/bebbo/libnix.git
